@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Eneam Library and Progiciel GBEWA at NEXTMUX**
 
-- 🌱 I’m currently learning **Javascript, JAVA.**
+- 🌱 I’m currently learning **Javascript and JAVA.**
 
 - 💬 Ask me about **Laravel, Symfony, Flutter**
 
