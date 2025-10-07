@@ -5,7 +5,7 @@
 
 - 💻 **My favorite stack & languages**: Symfony, Laravel, Django, and Angular with PHP, Java, and TypeScript — I love them because they allow me to build both **robust backend systems and dynamic web applications**.
 
-- 📫 **Connect with me**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euvince/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/euvince)
+- 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/euvince/) or [Twitter](https://twitter.com/euvince)
 
 - ⚡ Fun fact **I am a curious and creative developer, always looking for new challenges to take on.**
 
@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvince&show_icons=true&locale=en&layout=compact" alt="euvince" /></p>
 
-<p><img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" height="200" /></p>
+<p><img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" height="170" /></p>
