@@ -13,19 +13,19 @@
 
 ---
 
-## 🛠️ Skills
-
-### **Programming : PHP, JAVA, JavaScript, TypeScript, Python, Dart, C++.**
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvince&show_icons=true&locale=en&layout=compact" alt="euvince" />
 
-### **Backend : Symfony, Laravel, Django, Django REST Framework, FastAPI, Node.js, Express.js.**
-### **Frontend : HTML, CSS, Tailwind CSS, Bootstrap, Angular, Vue.js, Nuxt.**
-### **Mobile : Flutter and Ionic.**
-### **Data Modeling & Databases : UML, Merise, PostgreSQL, MySQL/MariaDB, SQLite, Redis, Supabase,
-Firebase, MongoDB.**
-### **Tests & Debugging : Insomnia & Postman.**
-### **Versionning & Deployment : Git, Github, Gitlab, Github Actions.**
+---
+
+## 🛠️ Skills
+
+### **Programming :** PHP, JAVA, JavaScript, TypeScript, Python, Dart, C++.
+### **Backend :** Symfony, Laravel, Django, Django REST Framework, FastAPI, Node.js, Express.js.
+### **Frontend :** HTML, CSS, Tailwind CSS, Bootstrap, Angular, Vue.js, Nuxt.
+### **Mobile :** Flutter and Ionic.
+### **Data Modeling & Databases :** UML, Merise, PostgreSQL, MySQL/MariaDB, SQLite, Redis, Supabase, Firebase, MongoDB.
+### **Tests & Debugging :** Insomnia & Postman.
+### **Versionning & Deployment :** Git, Github, Gitlab, Github Actions.
 
 ---
 
