@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps practices and cloud automation**, including CI/CD, Docker, and cloud deployments.
 
-- 💬 My favourite stack are **Ionic • Angular • Capacitor/Cordova** because **I love mobile development as much as web development**.
+- 💻 **My favorite stack & languages**: Symfony, Laravel, Django, and Angular with PHP, Java, and TypeScript — I love them because they allow me to build both **robust backend systems and dynamic web applications**.
 
 - 📫 **Connect with me**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euvince/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/euvince)
 
