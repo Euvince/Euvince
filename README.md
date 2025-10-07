@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Euvince.</h1>
-<h3 align="center">Software Developer & Analyst | DevOps & Cloud Enthusiast.</h3>
+<h1>Hi 👋, I'm Euvince.</h1>
+<h3>Software Developer & Analyst | DevOps & Cloud Enthusiast.</h3>
 
 - 🌱 I’m currently learning **DevOps practices and cloud automation**, including CI/CD, Docker, and cloud deployments.
 
