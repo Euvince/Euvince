@@ -14,5 +14,5 @@
 </p>
 
 <p>
-  <img src="https://giphy.com/gifs/geek-the-incredibles-writing-schedule-13rQ7rrTrvZXlm" width="300" height="166"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVtbHMydG10NDJrcjBzMzBqMGpuYmp2OXNtMnRxdHliczlieG1nciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" width="300" height="166"/>
 </p>
