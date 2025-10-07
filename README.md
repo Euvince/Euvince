@@ -10,9 +10,5 @@
 - ⚡ Fun fact **I am a curious and creative developer, always looking for new challenges to take on.**
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvince&show_icons=true&locale=en&layout=compact" alt="euvince" />
-</p>
-
-<p>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVtbHMydG10NDJrcjBzMzBqMGpuYmp2OXNtMnRxdHliczlieG1nciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" width="300" height="166"/>
 </p>
