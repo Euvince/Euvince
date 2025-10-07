@@ -5,7 +5,7 @@
 
 - 💻 **My favorite stack & languages**: Symfony, Laravel, Django, and Angular with PHP, Java, Python and TypeScript — I love them because they allow me to build both **robust backend systems and dynamic web applications**.
 
-- 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/euvince/) [Twitter](https://twitter.com/euvince) or [Email](https://mailto:danieleuvince2003@gmail.com)
+- 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/euvince/), [Twitter](https://twitter.com/euvince) or [Email](https://mailto:danieleuvince2003@gmail.com)
 
 - ⚡ Fun fact **I am a curious and creative developer, always looking for new challenges to take on.**
 
@@ -41,5 +41,4 @@
 - **"Introduction to Cloud Computing"** – IBM via Coursera (2025)
 
 ## 💻 Most used Languages
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvince&show_icons=true&locale=en&layout=compact" alt="euvince" />
