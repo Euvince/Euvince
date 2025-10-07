@@ -13,7 +13,7 @@
 
 <p>
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" 
-       width="495" height="165"
+       width="300" height="165"
        style="border-radius: 12px;"
        alt="fun gif" />
 </p>
