@@ -26,7 +26,7 @@
 - Flutter and Ionic.
 
 ### **Data Modeling & Databases**
-- UML, Merise, PostgreSQL, MySQL/MariaDB, SQLite, Redis, Supabase, Firebase, and MongoDB.
+- UML, Merise, Oracle, PostgreSQL, MySQL/MariaDB, SQLite, Redis, Supabase, Firebase, and MongoDB.
 
 ### **Tests & Debugging**
 - Insomnia and Postman.
