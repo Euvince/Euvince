@@ -14,30 +14,32 @@
 ## 🛠️ Skills
 
 ### **Programming**
-- PHP, JAVA, JavaScript, TypeScript, Python, Dart, C++.
+- PHP, JAVA, JavaScript, TypeScript, Python, Dart, and C++.
 
 ### **Backend**
-- Symfony, Laravel, Django, Django REST Framework, FastAPI, Node.js, Express.js.
+- Symfony, Laravel, Django, Django REST Framework, FastAPI, Node.js, and Express.js.
 
 ### **Frontend**
-- HTML, CSS, Tailwind CSS, Bootstrap, Angular, Vue.js, Nuxt.
+- HTML, CSS, Tailwind CSS, Bootstrap, Angular, Vue.js, and Nuxt.
 
 ### **Mobile**
-- **CI/CD :** Flutter and Ionic.
+- Flutter and Ionic.
 
 ### **Data Modeling & Databases**
-- **CI/CD :** UML, Merise, PostgreSQL, MySQL/MariaDB, SQLite, Redis, Supabase, Firebase, MongoDB.
+- UML, Merise, PostgreSQL, MySQL/MariaDB, SQLite, Redis, Supabase, Firebase, and MongoDB.
 
 ### **Tests & Debugging**
-- **CI/CD :** Insomnia and Postman.
+- Insomnia and Postman.
 
 ### **Versionning & Deployment**
-- **CI/CD :** Git, Github, Gitlab, Github Actions.
+- Git, Github, Gitlab, Github Actions.
 
 ---
 
-## 🏆 Certifications
+## 🎓 Certifications
 - **"Introduction to DevOps"** – IBM via Coursera (2025)
+- **"Introduction to Cloud Computing"** – IBM via Coursera (2025)
 
+## 💻 Most used Languages
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvince&show_icons=true&locale=en&layout=compact" alt="euvince" />
