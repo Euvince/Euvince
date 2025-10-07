@@ -9,11 +9,10 @@
 
 - ⚡ Fun fact **I am a curious and creative developer, always looking for new challenges to take on.**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvince&show_icons=true&locale=en&layout=compact" alt="euvince" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvince&show_icons=true&locale=en&layout=compact" alt="euvince" />
+</p>
 
 <p>
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" 
-       width="300" height="165"
-       style="border-radius: 12px;"
-       alt="fun gif" />
+  <img src="https://giphy.com/gifs/geek-the-incredibles-writing-schedule-13rQ7rrTrvZXlm" width="300" height="166"/>
 </p>
