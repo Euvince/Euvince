@@ -11,23 +11,33 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVtbHMydG10NDJrcjBzMzBqMGpuYmp2OXNtMnRxdHliczlieG1nciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" width="300" height="166"/>
 
----
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvince&show_icons=true&locale=en&layout=compact" alt="euvince" />
-
----
-
 ## 🛠️ Skills
 
-### **Programming :** PHP, JAVA, JavaScript, TypeScript, Python, Dart, C++.
-### **Backend :** Symfony, Laravel, Django, Django REST Framework, FastAPI, Node.js, Express.js.
-### **Frontend :** HTML, CSS, Tailwind CSS, Bootstrap, Angular, Vue.js, Nuxt.
-### **Mobile :** Flutter and Ionic.
-### **Data Modeling & Databases :** UML, Merise, PostgreSQL, MySQL/MariaDB, SQLite, Redis, Supabase, Firebase, MongoDB.
-### **Tests & Debugging :** Insomnia & Postman.
-### **Versionning & Deployment :** Git, Github, Gitlab, Github Actions.
+### **Programming**
+- PHP, JAVA, JavaScript, TypeScript, Python, Dart, C++.
+
+### **Backend**
+- Symfony, Laravel, Django, Django REST Framework, FastAPI, Node.js, Express.js.
+
+### **Frontend**
+- HTML, CSS, Tailwind CSS, Bootstrap, Angular, Vue.js, Nuxt.
+
+### **Mobile**
+- **CI/CD :** Flutter and Ionic.
+
+### **Data Modeling & Databases**
+- **CI/CD :** UML, Merise, PostgreSQL, MySQL/MariaDB, SQLite, Redis, Supabase, Firebase, MongoDB.
+
+### **Tests & Debugging**
+- **CI/CD :** Insomnia and Postman.
+
+### **Versionning & Deployment**
+- **CI/CD :** Git, Github, Gitlab, Github Actions.
 
 ---
 
 ## 🏆 Certifications
 - **"Introduction to DevOps"** – IBM via Coursera (2025)
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvince&show_icons=true&locale=en&layout=compact" alt="euvince" />
