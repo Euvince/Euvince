@@ -37,8 +37,8 @@
 ---
 
 ## 🎓 Certifications
-- **"Introduction to DevOps"** – IBM via Coursera (2025)
-- **"Introduction to Cloud Computing"** – IBM via Coursera (2025)
+- **"Introduction to DevOps"** – IBM by Coursera (2025)
+- **"Introduction to Cloud Computing"** – IBM by Coursera (2025)
 
 ## 💻 Most used Languages
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euvince&show_icons=true&locale=en&layout=compact" alt="euvince" />
